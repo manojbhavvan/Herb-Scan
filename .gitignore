@@ -4,7 +4,7 @@
 # Ignore virtual environment directories
 venv/
 virtual-model/
-
+env/
 # Ignore pipenv environment
 Pipfile
 Pipfile.lock
