@@ -25,7 +25,6 @@ import os
 from .image_utils import predict_plant
 from django.conf import settings
 
-
 class ImageUploadViewSet(viewsets.ViewSet):
     parser_class = [MultiPartParser]
 
