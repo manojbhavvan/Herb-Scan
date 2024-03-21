@@ -8,6 +8,8 @@ env/
 # Ignore pipenv environment
 Pipfile
 Pipfile.lock
+# Ignore Dataset
+/Dataset
 
 # Ignore the requirements file
 requirements.txt
