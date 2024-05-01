@@ -5,6 +5,7 @@
 venv/
 virtual-model/
 env/
+Dataset/
 # Ignore pipenv environment
 Pipfile
 Pipfile.lock
